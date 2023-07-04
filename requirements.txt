@@ -1,0 +1,6 @@
+streamlit
+Keras
+numpy
+opencv-python-headless
+tensorflow
+pyfirmata
